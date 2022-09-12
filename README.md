@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img alt="Be The Hero" src="assets/logo.svg" width="250px" /><br>
-    <b>Save the day!</b>🦸‍♂️
+
+    <b>BE HERO!</b>
 </h1>
 
 <p align="center">
@@ -84,10 +84,6 @@ docker-compose up
 
 You can now use the API at [http://localhost:3333](http://localhost:3333) and view the Web App in the browser at [http://localhost:3000](http://localhost:3000).
 
-### Mobile
-
-With an Android phone, you can load this project immediately at [https://expo.io/@diegomais/be-the-hero](https://expo.io/@diegomais/be-the-hero).
-
 #### Prerequisites
 
 The project can be built with npm or Yarn, so choose one of the approach bellow in case you don't have any installed on your system.
@@ -130,5 +126,3 @@ After the merge of your pull request is done, you can delete your branch.
 This project is under the MIT license. See the [LICENSE](LICENSE) for more details.
 
 ---
-
-Made with :heart: by [Diego Mais](https://diegomais.github.io/) :wave:.
